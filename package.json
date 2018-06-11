@@ -21,5 +21,8 @@
   "homepage": "https://github.com/timmyreilly/typescript-ethereum#readme",
   "devDependencies": {
     "typechain": "^0.2.1"
+  },
+  "dependencies": {
+    "web3": "^1.0.0-beta.34"
   }
 }
