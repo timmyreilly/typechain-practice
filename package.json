@@ -1,0 +1,25 @@
+{
+  "name": "typescript-ethereum",
+  "version": "1.0.0",
+  "description": "welp",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/timmyreilly/typescript-ethereum.git"
+  },
+  "author": "timmyreilly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timmyreilly/typescript-ethereum/issues"
+  },
+  "homepage": "https://github.com/timmyreilly/typescript-ethereum#readme",
+  "devDependencies": {
+    "typechain": "^0.2.1"
+  }
+}
