@@ -23,6 +23,7 @@
     "typechain": "^0.2.1"
   },
   "dependencies": {
+    "figlet-cli": "^0.1.0",
     "web3": "^1.0.0-beta.34"
   }
 }
